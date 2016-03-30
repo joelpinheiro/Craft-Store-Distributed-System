@@ -4,11 +4,11 @@
 
 
 # Craft-Store-Distributed-System
-Distributed System over RMI
+Distributed System
 
 
-- [Report 1]()
-
+- [Report 1](https://github.com/joelpinheiro/Craft-Store-Distributed-System/blob/master/sd_first_project/Artesanato%20de%20Aveiro.pdf)
+- [Report 2](https://github.com/joelpinheiro/Craft-Store-Distributed-System/blob/master/sd_second_project/P2_TP2_G7.pdf)
 
 ## Contributing
 1. Fork it!
