@@ -1,0 +1,4 @@
+                 Aveiro Handicraft SARL - Description of the internal state
+ENTREPRE  CUST_0    CUST_1    CUST_2    CRAFT_0   CRAFT_1   CRAFT_2                 SHOP                    WORKSHOP
+Stat     Stat  BP  Stat  BP  Stat  BP   Stat PP   Stat PP   Stat PP    Stat NCI   NPI   PCR PMR  APMI   NPI   NSPM   TAPM   TNP
+OTS      CODC  0   CODC  0   CODC  0    FPNS  0   FPNS  0   FPNS  0    OPEN   0     0     F   F     0     0      0      0     0  

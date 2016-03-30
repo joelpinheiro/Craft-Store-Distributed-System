@@ -1,0 +1,11 @@
+test
+.
+Quantidade materias primas -> 50
+Limite de produtos na oficina para avisar a dona (recolha) -> 5
+Quantidade de produtos que a dona pode levar para a loja de cada vez -> 1
+Quantidade de materias primas que a dona pode levar para a oficina de cada vez -> 15
+Quantos artesaos existem -> 3
+Quantos clientes existem -> 3
+Quantos produtos os artesaos fabricam por cada materia prima -> 1
+Quantas materias primas levam os artesaos para a sua mesa de trabalho (todas sao consumidas para produzir n produtos) -> 1
+Quanto tempo(ms) demora a produzir x pecas -> 5
